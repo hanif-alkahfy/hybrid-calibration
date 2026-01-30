@@ -1,11 +1,12 @@
+python>=3.10,<3.12
 pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
+scikit-learn==1.3.2
 xgboost
 imbalanced-learn
 betacal
-joblib
+joblib==1.3.2
 streamlit>=1.32.0
 altair>=5.0.0
